@@ -1,4 +1,3 @@
 ### `I am an enthusiastic Informatics Engineering student specializing in Software Engineering and passionate about building scalable solutions.`
-
 ![STUDENT](https://img.shields.io/badge/STUDENT-E34F26?style=for-the-badge&logo=Color=white)
 ![STUDENT](https://img.shields.io/badge/TECH_ENTHUSIAST-007ACC?style=for-the-badge&logo=Color=white)
