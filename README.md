@@ -4,5 +4,7 @@
 
 </div>
 <hr style="border: 0; height: 1px; background-color: #333333; margin: 10px 0;">
-<p2 style="float: right">You can reach me <a href="mailto:mdezanaduiza@gmail.com">mdezanaudiza@gmail.com</a>
+<div align="right">
+    <p2>You can reach me <a href="mailto:mdezanaduiza@gmail.com">mdezanaudiza@gmail.com</a>
+</div>
 
